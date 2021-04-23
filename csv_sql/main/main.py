@@ -19,8 +19,9 @@ try:
 		print("Connected to MySQL Server version ", db_Info)
 		cursor = connection.cursor()
 		columns, row = read_csv_file(file_name='products-backup.csv')
-		data_dump = create_table(database='cartmigration_ver3_test_112', table_name='table', columns=columns)
-		result = cursor.execute(data_dump)
+		prepare_table, table_query = create_table(database='cartmigration_ver3_test_112', table_name='table', columns=columns)
+		cursor.execute((prepare_table))
+		result = cursor.execute(table_query)
 		print("Table created successfully ")
 		with alive_bar(len(row)) as bar:
 			for data in row:

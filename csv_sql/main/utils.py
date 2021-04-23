@@ -49,7 +49,7 @@ def create_table(database='default', table_name='default', columns=[]):
             query += f" `{column}` text ) ENGINE='MyISAM' COLLATE 'utf8_general_ci';"
             break
         query += f" `{column}` TEXT NULL, "
-    return query
+    return before_query, query
 
 
 def create_insert_query(table, columns, data, limit=4):
