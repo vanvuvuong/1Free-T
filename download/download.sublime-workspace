@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"post_with_link"
+			],
+			[
+				"co",
+				"convert"
+			],
+			[
+				"a",
+				"async"
+			],
+			[
+				"Tr",
+				"true"
+			],
+			[
+				"clear",
+				"clear_target_customers"
+			],
+			[
+				"cle",
+				"clear_target"
+			],
+			[
+				"not",
+				"notice"
+			],
+			[
+				"sle",
+				"self"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"FA",
+				"False"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"attr",
+				"attribute_id"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"TR",
+				"True"
+			],
+			[
+				"Re",
+				"return"
+			],
+			[
+				"get",
+				"getallheaders"
+			],
+			[
+				"h",
+				"headers"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"TYPE_C",
+				"TYPE_CUSTOMER"
+			],
+			[
+				"sl",
+				"self"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"id_",
+				"id_src"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"to",
+				"to_str"
+			],
+			[
+				"custoe",
+				"customers"
+			],
+			[
+				"SE",
+				"self"
+			],
+			[
+				"F",
+				"False"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dev/1Free-T/download"
+	],
+	"file_history":
+	[
+		"/tmp/fz3temp-2/connector 2.php",
+		"/tmp/fz3temp-2/connector.php",
+		"/home/dev/1Free-T/download/post_test2",
+		"/home/dev/1Free-T/download/add_link.py",
+		"/home/dev/1Free-T/download/post_test_with_link",
+		"/tmp/fz3temp-2/customers_errors.log",
+		"/tmp/fz3temp-2/orders_errors.log",
+		"/tmp/fz3temp-2/newsletters_errors.log",
+		"/tmp/fz3temp-2/target_connector.log",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_3.md",
+		"/home/dev/Documents/key1",
+		"/home/dev/Documents/.CREDENTIAL",
+		"/var/www/html/opencart/install.txt",
+		"/var/www/html/opencart/config.php",
+		"/var/www/html/opencart/admin/config.php",
+		"/var/www/html/prestashop/INSTALL.txt",
+		"/home/dev/2LitX/le_connector/connector.php",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_2.md",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_2_2.md",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/README.md",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_2_14.md",
+		"/home/dev/LitX/cartmigration_ver3/requirements.txt",
+		"/usr/share/applications/defaults.list",
+		"/home/dev/Downloads/info1.txt",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_2_15.md",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_1.md",
+		"/home/dev/.zshrc",
+		"/tmp/fz3temp-2/product_data_images.log",
+		"/tmp/fz3temp-2/media_value_id_con.log",
+		"/tmp/fz3temp-2/images.log",
+		"/tmp/fz3temp-2/check_product.log",
+		"/tmp/fz3temp-2/product_images_cv.log",
+		"/tmp/fz3temp-2/query.log",
+		"/home/dev/Documents/key2",
+		"/tmp/fz3temp-2/magento2.py",
+		"/tmp/fz3temp-2/process.log",
+		"/tmp/fz3temp-2/exceptions_top.log",
+		"/tmp/fz3temp-2/products_errors.log",
+		"/tmp/fz3temp-2/magento19.py",
+		"/tmp/fz3temp-2/exception.log",
+		"/tmp/fz3temp-2/system.log",
+		"/tmp/fz3temp-2/queries.log",
+		"/tmp/fz3temp-2/ecwid.py",
+		"/tmp/fz3temp-2/product_id.log",
+		"/tmp/fz3temp-2/exceptions.log",
+		"/tmp/fz3temp-2/woocommerce.py",
+		"/tmp/fz3temp-2/squarespace.py",
+		"/tmp/fz3temp-2/shopify.py",
+		"/home/dev/Downloads/le_connector/connector.php",
+		"/tmp/fz3temp-2/debug.log",
+		"/tmp/fz3temp-2/wp-config.php",
+		"/tmp/fz3temp-2/3dcart.py",
+		"/tmp/fz3temp-2/target_status.log",
+		"/tmp/fz3temp-2/time_images.log",
+		"/tmp/fz3temp-2/product.log",
+		"/home/dev/.cache/.fr-gdlb5k/le_connector/connector.php",
+		"/home/dev/.cache/.fr-UiV4m4/le_connector/connector.php",
+		"/tmp/fz3temp-2/.env",
+		"/tmp/fz3temp-2/wp-config-sample.php",
+		"/var/www/html/www.yallashop.sa",
+		"/tmp/fz3temp-2/nginx.conf",
+		"/home/dev/.cache/.fr-B2To4K/le_connector/connector.php",
+		"/tmp/fz3temp-2/prestashop16.py",
+		"/tmp/fz3temp-2/a27f64129ff7f4e656bfa735f9c1da7c413df2e23defa3079d9e5f89ea3c8f88",
+		"/var/www/html/le_connector/connector.php",
+		"/tmp/fz3temp-2/basecart.py",
+		"/tmp/fz3temp-2/magento2 3.py",
+		"/tmp/fz3temp-2/magento2 2.py",
+		"/tmp/fz3temp-2/3dcart_img.log",
+		"/tmp/fz3temp-2/path_img.log",
+		"/tmp/fz3temp-2/custom.py",
+		"/tmp/fz3temp-2/src_connector.log",
+		"/tmp/fz3temp-2/opencart3.py",
+		"/tmp/fz3temp-2/exceptions 2.log",
+		"/tmp/fz3temp-2/sendgrid.log",
+		"/tmp/fz3temp-2/env.php",
+		"/tmp/fz3temp-2/time_requests.log",
+		"/tmp/fz3temp-2/categories_errors.log",
+		"/tmp/fz3temp-2/response.log",
+		"/tmp/fz3temp-2/post_data.log",
+		"/tmp/fz3temp-2/neto.py",
+		"/tmp/fz3temp-2/shopify 2.py",
+		"/tmp/fz3temp-2/27c863ecf1ca2fc635240d5555e7cac0662ff0ef0df1e0412326cc7c3f94c698",
+		"/tmp/fz3temp-2/Json.php",
+		"/tmp/fz3temp-2/lubarol.srv01.kammalou.net.ssl",
+		"/tmp/fz3temp-2/d05f7cb888b8e2231fb7622e82057c076542b17711f61671d63b076c7db12bee",
+		"/tmp/fz3temp-2/44e6b67dff4c6ac9025e2de2ed9c283d113c4b2273424c08f7f0faddf0c70c4a",
+		"/tmp/fz3temp-2/1f3fd7bd016a32b80552e47991e82a42d25ff837d73216bd2a64ba49574cfe92",
+		"/tmp/fz3temp-2/83bacc7bcca123b2a195433e7546abd8b15a532e2bf70d17a014226aa1d8fcf5",
+		"/tmp/fz3temp-2/bootstrap.php",
+		"/tmp/fz3temp-2/lubarol.srv01.kammalou.net.conf",
+		"/home/dev/Downloads/TALIEU/cart/autoload.php",
+		"/tmp/fz3temp-2/06d5e3cca3e332de1ca9cc7247fe624f21e76618c7e4c2c7d90897125926f7a9",
+		"/tmp/fz3temp-2/bigcommerce.py",
+		"/tmp/fz3temp-2/bigcommercev3.py",
+		"/tmp/fz3temp-2/oscommerce.py",
+		"/tmp/fz3temp-2/product_meta.log",
+		"/tmp/fz3temp-2/update_demo_product.log",
+		"/tmp/fz3temp-2/product_attr_data.log",
+		"/tmp/fz3temp-2/entity_decimal.log",
+		"/tmp/fz3temp-2/config.php",
+		"/tmp/fz3temp-3/exceptions.log",
+		"/tmp/fz3temp-3/magento2.py",
+		"/tmp/fz3temp-3/magento19.py",
+		"/tmp/fz3temp-3/order['increment_id'].log",
+		"/tmp/fz3temp-3/magento2 2.py",
+		"/tmp/fz3temp-3/connector.php",
+		"/tmp/fz3temp-3/db_custom.php",
+		"/tmp/fz3temp-2/src_status.log",
+		"/tmp/fz3temp-2/a.log",
+		"/tmp/fz3temp-2/b.log",
+		"/tmp/fz3temp-2/items_data.log",
+		"/tmp/fz3temp-2/quantity.log",
+		"/tmp/fz3temp-2/id_desc.log",
+		"/tmp/fz3temp-2/update_demo_product1.log",
+		"/tmp/fz3temp-2/id_image.log",
+		"/tmp/fz3temp-2/products_errors 2.log",
+		"/tmp/fz3temp-2/data_attribute_insert.log",
+		"/tmp/fz3temp-2/db_config.php",
+		"/tmp/fz3temp-2/orders_errors 2.log",
+		"/tmp/fz3temp-2/volusion.py",
+		"/tmp/fz3temp-2/product_data.log",
+		"/tmp/fz3temp-2/category_errors.log",
+		"/home/dev/Downloads/TALIEU/cart/update_woocommerce.php",
+		"/tmp/fz3temp-2/categories_errors 2.log",
+		"/tmp/fz3temp-2/woocommerce 2.py",
+		"/tmp/fz3temp-2/woocommerce 3.py",
+		"/tmp/fz3temp-2/shopp.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "download.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c3",
+				"chapter_3.md"
+			],
+			[
+				"22",
+				"chapter_2_2.md"
+			],
+			[
+				"chap",
+				"chapter_2.md"
+			],
+			[
+				"chapter_2_",
+				"chapter_2_14.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

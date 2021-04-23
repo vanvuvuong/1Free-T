@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"img_link"
+			],
+			[
+				"log",
+				"logdata\tLog the Convert File"
+			],
+			[
+				"get",
+				"get_abs_link"
+			],
+			[
+				"Fl",
+				"False"
+			],
+			[
+				"LOGIN",
+				"LOGIN_URL"
+			],
+			[
+				"shi",
+				"ship_lines"
+			],
+			[
+				"string",
+				"string-based"
+			],
+			[
+				"elem",
+				"element1"
+			],
+			[
+				"ROU",
+				"ROUND_HALF_UP"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"co",
+				"convert"
+			],
+			[
+				"a",
+				"async"
+			],
+			[
+				"Tr",
+				"true"
+			],
+			[
+				"clear",
+				"clear_target_customers"
+			],
+			[
+				"cle",
+				"clear_target"
+			],
+			[
+				"not",
+				"notice"
+			],
+			[
+				"sle",
+				"self"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"FA",
+				"False"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"attr",
+				"attribute_id"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"TR",
+				"True"
+			],
+			[
+				"Re",
+				"return"
+			],
+			[
+				"h",
+				"headers"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"TYPE_C",
+				"TYPE_CUSTOMER"
+			],
+			[
+				"sl",
+				"self"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"id_",
+				"id_src"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"to",
+				"to_str"
+			],
+			[
+				"custoe",
+				"customers"
+			],
+			[
+				"SE",
+				"self"
+			],
+			[
+				"F",
+				"False"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dev/1Free-T/yt_api/google-api-python-client-master"
+	],
+	"file_history":
+	[
+		"/home/dev/1Free-T/yt_api/google-api-python-client-master/docs/README.md",
+		"/home/dev/1Free-T/yt_api/google-api-python-client-master/docs/start.md",
+		"/home/dev/1Free-T/yt_api/yt_api.sublime-project",
+		"/home/dev/1Free-T/download/fb_post/link_summary",
+		"/home/dev/1Free-T/download/fb_post/run.py",
+		"/home/dev/1Free-T/download/fb_post/link_extra",
+		"/home/dev/1Free-T/dd1/basic/variable_reference.py",
+		"/tmp/fz3temp-2/name.log",
+		"/tmp/fz3temp-2/time_requests.log",
+		"/tmp/fz3temp-2/cat.log",
+		"/tmp/fz3temp-2/post_data.log",
+		"/tmp/fz3temp-2/orders_errors.log",
+		"/tmp/fz3temp-2/shopify.py",
+		"/tmp/fz3temp-2/target_status.log",
+		"/home/dev/1Free-T/download/fb_post/run2.py",
+		"/home/dev/1Free-T/download/fb_post/get_post_link.py",
+		"/home/dev/1Free-T/download/fb_post/test.py",
+		"/home/dev/1Free-T/download/fb_post/ROAD_MAP",
+		"/home/dev/1Free-T/download/b6zbclly myohyog2 l9j0dhe7 aenfhxwr l94mrbxd ihxqh",
+		"/home/dev/1Free-T/download/fb_post/down_img.py",
+		"/home/dev/Downloads/FTP/CSVtoSHOPIFY/convert/utils.py",
+		"/home/dev/Downloads/FTP/CSVtoSHOPIFY/convert/test.py",
+		"/home/dev/Downloads/FTP/CSVtoSHOPIFY/convert/to_57.py",
+		"/home/dev/Downloads/FTP/CSVtoSHOPIFY/convert/run.py",
+		"/home/dev/1Free-T/download/file_dl/download_file.py",
+		"/tmp/fz3temp-2/wix.py",
+		"/home/dev/Documents/sudoer-issues",
+		"/var/www/html/redpillvn.com/redpillvn.com/tim-hieu-khai-niem-vo-thuc-bi-an-la-dang-sau-nhung-an-pham-truyen-thong/index.html.tmp",
+		"/home/dev/Downloads/Programs/Getleft-v1.2/install.txt",
+		"/home/dev/.zsh_history",
+		"/home/dev/Downloads/Programs/Getleft-v1.2/install.tcl",
+		"/etc/hosts",
+		"/home/dev/Downloads/Video/viétub",
+		"/tmp/fz3temp-2/magento2.py",
+		"/home/dev/1Free-T/dd1/simple_tools.py/decimals.py",
+		"/home/dev/1Free-T/dd1/simple_tools.py/simple_calcultor.py",
+		"/home/dev/1Free-T/dd1/simple_tools.py/log.py",
+		"/tmp/fz3temp-2/products_errors.log",
+		"/home/dev/1Free-T/dd1/simple_tools.py/project_1.py",
+		"/home/dev/1Free-T/dd1/basic/function.py",
+		"/home/dev/1Free-T/freet.sublime-project",
+		"/home/dev/2LitX/default.sublime-project",
+		"/home/dev/LitX/bootstrap.py",
+		"/home/dev/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/tmp/fz3temp-2/customers_errors.log",
+		"/tmp/fz3temp-2/virtuemart1.py",
+		"/tmp/fz3temp-2/connector.php",
+		"/etc/init.d/mysql",
+		"/var/www/html/phpmyadmin/setup/config.php",
+		"/home/dev/Downloads/FTP/149624/missing_customer.csv.log",
+		"/home/dev/Downloads/FTP/149624/missing_customer.log",
+		"/tmp/fz3temp-2/missing_customer.csv.log",
+		"/tmp/fz3temp-2/exceptions.log",
+		"/tmp/fz3temp-2/missing_customer.log",
+		"/tmp/fz3temp-2/exceptions_top.log",
+		"/home/dev/LitX/default.sublime-project",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_2_14.md",
+		"/home/dev/LitX/cartmigration_ver3/requirements.txt",
+		"/usr/share/applications/defaults.list",
+		"/home/dev/Downloads/info1.txt",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_2_15.md",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_1.md",
+		"/home/dev/.zshrc",
+		"/tmp/fz3temp-2/product_data_images.log",
+		"/tmp/fz3temp-2/media_value_id_con.log",
+		"/tmp/fz3temp-2/images.log",
+		"/tmp/fz3temp-2/check_product.log",
+		"/tmp/fz3temp-2/product_images_cv.log",
+		"/tmp/fz3temp-2/query.log",
+		"/home/dev/Documents/key2",
+		"/home/dev/Documents/key1",
+		"/tmp/fz3temp-2/process.log",
+		"/tmp/fz3temp-2/magento19.py",
+		"/tmp/fz3temp-2/exception.log",
+		"/tmp/fz3temp-2/system.log",
+		"/tmp/fz3temp-2/queries.log",
+		"/tmp/fz3temp-2/ecwid.py",
+		"/tmp/fz3temp-2/product_id.log",
+		"/tmp/fz3temp-2/woocommerce.py",
+		"/tmp/fz3temp-2/squarespace.py",
+		"/home/dev/Downloads/le_connector/connector.php",
+		"/tmp/fz3temp-2/debug.log",
+		"/tmp/fz3temp-2/wp-config.php",
+		"/tmp/fz3temp-2/3dcart.py",
+		"/tmp/fz3temp-2/time_images.log",
+		"/tmp/fz3temp-2/product.log",
+		"/tmp/fz3temp-2/target_connector.log",
+		"/home/dev/.cache/.fr-gdlb5k/le_connector/connector.php",
+		"/home/dev/.cache/.fr-UiV4m4/le_connector/connector.php",
+		"/tmp/fz3temp-2/.env",
+		"/tmp/fz3temp-2/wp-config-sample.php",
+		"/var/www/html/www.yallashop.sa",
+		"/tmp/fz3temp-2/nginx.conf",
+		"/home/dev/.cache/.fr-B2To4K/le_connector/connector.php",
+		"/tmp/fz3temp-2/prestashop16.py",
+		"/tmp/fz3temp-2/a27f64129ff7f4e656bfa735f9c1da7c413df2e23defa3079d9e5f89ea3c8f88",
+		"/var/www/html/le_connector/connector.php",
+		"/tmp/fz3temp-2/basecart.py",
+		"/tmp/fz3temp-2/magento2 3.py",
+		"/tmp/fz3temp-2/magento2 2.py",
+		"/tmp/fz3temp-2/3dcart_img.log",
+		"/tmp/fz3temp-2/path_img.log",
+		"/tmp/fz3temp-2/custom.py",
+		"/tmp/fz3temp-2/src_connector.log",
+		"/tmp/fz3temp-2/opencart3.py",
+		"/tmp/fz3temp-2/exceptions 2.log",
+		"/tmp/fz3temp-2/sendgrid.log",
+		"/tmp/fz3temp-2/env.php",
+		"/tmp/fz3temp-2/categories_errors.log",
+		"/tmp/fz3temp-2/response.log",
+		"/tmp/fz3temp-2/neto.py",
+		"/tmp/fz3temp-2/shopify 2.py",
+		"/tmp/fz3temp-2/27c863ecf1ca2fc635240d5555e7cac0662ff0ef0df1e0412326cc7c3f94c698",
+		"/tmp/fz3temp-2/Json.php",
+		"/tmp/fz3temp-2/lubarol.srv01.kammalou.net.ssl",
+		"/tmp/fz3temp-2/d05f7cb888b8e2231fb7622e82057c076542b17711f61671d63b076c7db12bee",
+		"/tmp/fz3temp-2/44e6b67dff4c6ac9025e2de2ed9c283d113c4b2273424c08f7f0faddf0c70c4a",
+		"/tmp/fz3temp-2/1f3fd7bd016a32b80552e47991e82a42d25ff837d73216bd2a64ba49574cfe92",
+		"/tmp/fz3temp-2/83bacc7bcca123b2a195433e7546abd8b15a532e2bf70d17a014226aa1d8fcf5",
+		"/tmp/fz3temp-2/bootstrap.php",
+		"/tmp/fz3temp-2/lubarol.srv01.kammalou.net.conf",
+		"/home/dev/Downloads/TALIEU/cart/autoload.php",
+		"/tmp/fz3temp-2/06d5e3cca3e332de1ca9cc7247fe624f21e76618c7e4c2c7d90897125926f7a9",
+		"/tmp/fz3temp-2/bigcommerce.py",
+		"/tmp/fz3temp-2/bigcommercev3.py",
+		"/tmp/fz3temp-2/oscommerce.py",
+		"/tmp/fz3temp-2/product_meta.log",
+		"/tmp/fz3temp-2/update_demo_product.log"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "yt_api.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"start",
+				"docs/start.md"
+			],
+			[
+				"docs/",
+				"docs/README.md"
+			],
+			[
+				"base",
+				"dd1/basic/variable_reference.py"
+			],
+			[
+				"chapter_2_",
+				"chapter_2_14.md"
+			],
+			[
+				"chap",
+				"chapter_1.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 505.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 384.0
+	},
+	"select_symbol":
+	{
+		"height": 396.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 598.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

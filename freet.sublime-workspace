@@ -1,0 +1,642 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				"read_csv_file"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"update",
+				"update_manage_stock"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"inv",
+				"inventory_management"
+			],
+			[
+				"im",
+				"img_link"
+			],
+			[
+				"log",
+				"logdata\tLog the Convert File"
+			],
+			[
+				"get",
+				"get_abs_link"
+			],
+			[
+				"Fl",
+				"False"
+			],
+			[
+				"LOGIN",
+				"LOGIN_URL"
+			],
+			[
+				"shi",
+				"ship_lines"
+			],
+			[
+				"string",
+				"string-based"
+			],
+			[
+				"elem",
+				"element1"
+			],
+			[
+				"ROU",
+				"ROUND_HALF_UP"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"a",
+				"async"
+			],
+			[
+				"Tr",
+				"true"
+			],
+			[
+				"clear",
+				"clear_target_customers"
+			],
+			[
+				"cle",
+				"clear_target"
+			],
+			[
+				"not",
+				"notice"
+			],
+			[
+				"sle",
+				"self"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"FA",
+				"False"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"attr",
+				"attribute_id"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"TR",
+				"True"
+			],
+			[
+				"Re",
+				"return"
+			],
+			[
+				"h",
+				"headers"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"TYPE_C",
+				"TYPE_CUSTOMER"
+			],
+			[
+				"sl",
+				"self"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"id_",
+				"id_src"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"to",
+				"to_str"
+			],
+			[
+				"custoe",
+				"customers"
+			],
+			[
+				"SE",
+				"self"
+			],
+			[
+				"F",
+				"False"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "csv_sql/main/utils.py",
+			"settings":
+			{
+				"buffer_size": 1950,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "csv_sql/main/main.py",
+			"settings":
+			{
+				"buffer_size": 1245,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dev/1Free-T",
+		"/home/dev/1Free-T/csv_sql",
+		"/home/dev/1Free-T/csv_sql/main",
+		"/home/dev/1Free-T/dd1"
+	],
+	"file_history":
+	[
+		"/tmp/fz3temp-2/exceptions_top.log",
+		"/tmp/fz3temp-2/customers_errors.log",
+		"/tmp/fz3temp-2/orders_errors.log",
+		"/home/dev/Downloads/FTP/149699-weebly2shop/weebly.py",
+		"/home/dev/1Free-T/download/fb_post/main/post_test",
+		"/home/dev/1Free-T/download/fb_post/main/run.py",
+		"/home/dev/1Free-T/download/fb_post/link_summary",
+		"/home/dev/1Free-T/download/fb_post/run.py",
+		"/home/dev/1Free-T/download/fb_post/test.py",
+		"/home/dev/1Free-T/download/fb_post/post_test",
+		"/home/dev/1Free-T/download/fb_post/run2.py",
+		"/home/dev/1Free-T/download/fb_post/main/link_summary",
+		"/home/dev/1Free-T/csv_sql/utils.py",
+		"/home/dev/1Free-T/csv_sql/main.py",
+		"/tmp/fz3temp-2/woocommerce.py",
+		"/tmp/fz3temp-2/shopify.py",
+		"/tmp/fz3temp-2/target_status.log",
+		"/home/dev/Downloads/products-backup.csv",
+		"/var/www/html/adminer.php",
+		"/home/dev/1Free-T/dd1/simple_tools.py/closures.py",
+		"/home/dev/1Free-T/download/fb_post/python_key_word.py",
+		"/home/dev/2LitX/requirements_py38.txt",
+		"/home/dev/Downloads/Programs/Python-3.9.2/README.rst",
+		"/home/dev/2LitX/requirements.txt",
+		"/home/dev/.local/lib/python3.8/site-packages/selenium/webdriver/remote/remote_connection.py",
+		"/home/dev/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py",
+		"/home/dev/.local/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver.py",
+		"/home/dev/.local/lib/python3.8/site-packages/selenium/webdriver/__init__.py",
+		"/tmp/fz3temp-2/weebly.py",
+		"/tmp/fz3temp-2/reviews_errors.log",
+		"/tmp/fz3temp-2/exceptions.log",
+		"/tmp/fz3temp-2/P_data.log",
+		"/tmp/fz3temp-2/products_errors.log",
+		"/tmp/fz3temp-2/c_products.log",
+		"/tmp/fz3temp-2/p_convert.log",
+		"/home/dev/1Free-T/yt_api/youtube_api.py",
+		"/home/dev/1Free-T/download/fb_post/link_extra",
+		"/home/dev/1Free-T/dd1/basic/variable_reference.py",
+		"/tmp/fz3temp-2/name.log",
+		"/tmp/fz3temp-2/time_requests.log",
+		"/tmp/fz3temp-2/cat.log",
+		"/tmp/fz3temp-2/post_data.log",
+		"/home/dev/1Free-T/download/fb_post/get_post_link.py",
+		"/home/dev/1Free-T/download/fb_post/ROAD_MAP",
+		"/home/dev/1Free-T/download/b6zbclly myohyog2 l9j0dhe7 aenfhxwr l94mrbxd ihxqh",
+		"/home/dev/1Free-T/download/fb_post/down_img.py",
+		"/home/dev/Downloads/FTP/CSVtoSHOPIFY/convert/utils.py",
+		"/home/dev/Downloads/FTP/CSVtoSHOPIFY/convert/test.py",
+		"/home/dev/Downloads/FTP/CSVtoSHOPIFY/convert/to_57.py",
+		"/home/dev/Downloads/FTP/CSVtoSHOPIFY/convert/run.py",
+		"/home/dev/1Free-T/download/file_dl/download_file.py",
+		"/tmp/fz3temp-2/wix.py",
+		"/home/dev/Documents/sudoer-issues",
+		"/var/www/html/redpillvn.com/redpillvn.com/tim-hieu-khai-niem-vo-thuc-bi-an-la-dang-sau-nhung-an-pham-truyen-thong/index.html.tmp",
+		"/home/dev/Downloads/Programs/Getleft-v1.2/install.txt",
+		"/home/dev/.zsh_history",
+		"/home/dev/Downloads/Programs/Getleft-v1.2/install.tcl",
+		"/etc/hosts",
+		"/home/dev/Downloads/Video/viétub",
+		"/tmp/fz3temp-2/magento2.py",
+		"/home/dev/1Free-T/dd1/simple_tools.py/decimals.py",
+		"/home/dev/1Free-T/dd1/simple_tools.py/simple_calcultor.py",
+		"/home/dev/1Free-T/dd1/simple_tools.py/log.py",
+		"/home/dev/1Free-T/dd1/simple_tools.py/project_1.py",
+		"/home/dev/1Free-T/dd1/basic/function.py",
+		"/home/dev/1Free-T/freet.sublime-project",
+		"/home/dev/2LitX/default.sublime-project",
+		"/home/dev/LitX/bootstrap.py",
+		"/home/dev/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/tmp/fz3temp-2/virtuemart1.py",
+		"/tmp/fz3temp-2/connector.php",
+		"/etc/init.d/mysql",
+		"/var/www/html/phpmyadmin/setup/config.php",
+		"/home/dev/Downloads/FTP/149624/missing_customer.csv.log",
+		"/home/dev/Downloads/FTP/149624/missing_customer.log",
+		"/tmp/fz3temp-2/missing_customer.csv.log",
+		"/tmp/fz3temp-2/missing_customer.log",
+		"/home/dev/LitX/default.sublime-project",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_2_14.md",
+		"/home/dev/LitX/cartmigration_ver3/requirements.txt",
+		"/usr/share/applications/defaults.list",
+		"/home/dev/Downloads/info1.txt",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_2_15.md",
+		"/home/dev/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/chapter_1.md",
+		"/home/dev/.zshrc",
+		"/tmp/fz3temp-2/product_data_images.log",
+		"/tmp/fz3temp-2/media_value_id_con.log",
+		"/tmp/fz3temp-2/images.log",
+		"/tmp/fz3temp-2/check_product.log",
+		"/tmp/fz3temp-2/product_images_cv.log",
+		"/tmp/fz3temp-2/query.log",
+		"/home/dev/Documents/key2",
+		"/home/dev/Documents/key1",
+		"/tmp/fz3temp-2/process.log",
+		"/tmp/fz3temp-2/magento19.py",
+		"/tmp/fz3temp-2/exception.log",
+		"/tmp/fz3temp-2/system.log",
+		"/tmp/fz3temp-2/queries.log",
+		"/tmp/fz3temp-2/ecwid.py",
+		"/tmp/fz3temp-2/product_id.log",
+		"/tmp/fz3temp-2/squarespace.py",
+		"/home/dev/Downloads/le_connector/connector.php",
+		"/tmp/fz3temp-2/debug.log",
+		"/tmp/fz3temp-2/wp-config.php",
+		"/tmp/fz3temp-2/3dcart.py",
+		"/tmp/fz3temp-2/time_images.log",
+		"/tmp/fz3temp-2/product.log",
+		"/tmp/fz3temp-2/target_connector.log",
+		"/home/dev/.cache/.fr-gdlb5k/le_connector/connector.php",
+		"/home/dev/.cache/.fr-UiV4m4/le_connector/connector.php",
+		"/tmp/fz3temp-2/.env",
+		"/tmp/fz3temp-2/wp-config-sample.php",
+		"/var/www/html/www.yallashop.sa",
+		"/tmp/fz3temp-2/nginx.conf",
+		"/home/dev/.cache/.fr-B2To4K/le_connector/connector.php",
+		"/tmp/fz3temp-2/prestashop16.py",
+		"/tmp/fz3temp-2/a27f64129ff7f4e656bfa735f9c1da7c413df2e23defa3079d9e5f89ea3c8f88",
+		"/var/www/html/le_connector/connector.php",
+		"/tmp/fz3temp-2/basecart.py",
+		"/tmp/fz3temp-2/magento2 3.py",
+		"/tmp/fz3temp-2/magento2 2.py",
+		"/tmp/fz3temp-2/3dcart_img.log",
+		"/tmp/fz3temp-2/path_img.log",
+		"/tmp/fz3temp-2/custom.py",
+		"/tmp/fz3temp-2/src_connector.log",
+		"/tmp/fz3temp-2/opencart3.py",
+		"/tmp/fz3temp-2/exceptions 2.log",
+		"/tmp/fz3temp-2/sendgrid.log"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"line",
+			"data",
+			"header",
+			"'",
+			"fn",
+			"function",
+			"\\n",
+			"ctime",
+			"):\n",
+			"3810",
+			"7CM BRASS INCENSE BURNER",
+			"',\n",
+			"1",
+			"10012",
+			"10018",
+			"string",
+			"]))\n",
+			"10027",
+			"STRING_BASE",
+			"INT_BASED",
+			"STRING_BASE",
+			"TUPLE_BASED",
+			"Such",
+			"TUPLE_BASED",
+			"STRING_BASE",
+			"string_based",
+			"tuple_based",
+			"-",
+			"ROUND_HALF_DOWN",
+			"set",
+			"context",
+			"n",
+			"perimeter",
+			"apothem",
+			"edges_length",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"lines",
+			"line",
+			"",
+			",",
+			"_",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "csv_sql/main/utils.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								683,
+								683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "csv_sql/main/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "freet.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"base",
+				"dd1/basic/variable_reference.py"
+			],
+			[
+				"chapter_2_",
+				"chapter_2_14.md"
+			],
+			[
+				"chap",
+				"chapter_1.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 505.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/2LitX/default.sublime-project"
+			]
+		],
+		"width": 384.0
+	},
+	"select_symbol":
+	{
+		"height": 396.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 598.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

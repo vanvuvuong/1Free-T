@@ -1,0 +1,12 @@
+OVERVIEW FOLDER:
+
+	WHAT IS THE AIMING OF THIS FOLDER ?
+
+		THIS FOLDER WILL MAKE THE CLONE CORE PROJECT OR THE CARTMIGRATION WITH OPTIMIZATION
+
+		THE FORK PROJECT WILL MAKE THE INITIAL FILE FIRST FOR RUNNING
+
+				LISTING INITIAL FILE: cart, function to process data, function to call the "connector.php" file
+
+					Core Idea: Python Function will running in the background. It call the PHP FUNCTION to run and change the DB
+
