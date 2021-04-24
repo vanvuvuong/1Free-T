@@ -1,8 +1,6 @@
-from fileinput import filename
-
 import pandas as pd
 from datetime import datetime
-
+import os
 
 def log(mes, dt=None):
     """Logging the message depending on the time:
@@ -30,8 +28,8 @@ def read_csv_file(file_name=''):
         for row in file.values:
             line.append(tuple(row))
         line = tuple(line)
-    except:
-        log(f"Error when reading CSV file")
+    except pd.errors as e:
+        log(f"Error when reading CSV file: {e}")
         exit()
     finally:
         return header, line
@@ -76,8 +74,34 @@ def limit(function):
 
     return get_data
 
+def read_csv(self, file_upload, to_dict=True, delimiter=",", has_reversed=False):
+    if not os.path.isfile(file_upload):
+        return None
+    encoding = ['utf-8', 'utf-16', 'cp1252', 'latin1', 'iso-8859-1']
+
+    for encode in encoding:
+        try:
+            data_csv = pd.read_csv(file_upload, sep=delimiter, encoding=encode, low_memory=False, na_values=None, error_bad_lines=False, index_col=False)
+            if to_dict:
+                data_csv = data_csv.T.to_dict()
+                if has_reversed:
+                    try:
+                        new_data = list(data_csv.values())
+                        new_data = list(reversed(new_data))
+                        new_data = self.list_to_dict(new_data)
+                    except:
+                        self.log_traceback('read_file')
+                        new_data = None
+                    if new_data:
+                        data_csv = new_data
+            return data_csv
+        except:
+            self.log_traceback('read_file')
+            continue
+    return None
+
 if __name__ == "__main__":
-    header, lines = read_csv_file('products-backup.csv')
+    header, lines = read_csv_file('products.csv')
     line = lines[:4]
     table_query = create_table('cartmigration_ver3_test_112', 'xxx', header)
     insert_query = create_insert_query('xxx', header, line)
