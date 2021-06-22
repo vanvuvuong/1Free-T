@@ -1,0 +1,4 @@
+configparser
+argparse
+mysql
+alive_progress

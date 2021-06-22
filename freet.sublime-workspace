@@ -203,16 +203,19 @@
 			"file": "csv_sql/main/utils.py",
 			"settings":
 			{
-				"buffer_size": 1950,
+				"buffer_size": 3629,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "csv_sql/main/main.py",
 			"settings":
 			{
-				"buffer_size": 1245,
+				"buffer_size": 1318,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -263,9 +266,7 @@
 	"expanded_folders":
 	[
 		"/home/dev/1Free-T",
-		"/home/dev/1Free-T/csv_sql",
-		"/home/dev/1Free-T/csv_sql/main",
-		"/home/dev/1Free-T/dd1"
+		"/home/dev/1Free-T/csv_to_sql"
 	],
 	"file_history":
 	[
@@ -400,7 +401,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -465,15 +466,16 @@
 			"\""
 		],
 		"reverse": false,
+		"scrollbar_highlights": true,
 		"show_context": true,
 		"use_buffer2": true,
+		"use_gitignore": true,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -482,20 +484,53 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1950,
+						"buffer_size": 3629,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								683,
-								683
+								351,
+								351
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "csv_sql/main/main.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -503,35 +538,7 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "csv_sql/main/main.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								603,
-								603
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
+					"stack_multiselect": false,
 					"type": "text"
 				}
 			]
@@ -539,7 +546,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -580,7 +587,7 @@
 	"project": "freet.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":

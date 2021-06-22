@@ -55,9 +55,9 @@ def create_tbl(tbl_name, csv_file, deli):
             list_colume += f"`{item}` LONGTEXT NULL, \n"
         mySql_Create_Table_Query = "CREATE TABLE " + tbl_name + """
 	    (id int(15) NOT NULL AUTO_INCREMENT,\n""" + list_colume + """
-	    PRIMARY KEY (id)) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8;"""
+	    PRIMARY KEY (id)) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8mb4;"""
     with open(csv_file, encoding='utf-8', errors='ignore') as f:
-        a = [{k: v for k, v in row.items()} for row in csv.DictReader(f, delimiter=deli, skipinitialspace=True)]
+        a = [{k: v for k, v in row.items()} for row in csv.DictReader(f, delimiter=deli, skipinitialspace=True, quotechar='"')]
     return {'query': mySql_Create_Table_Query, 'data': a}
 
 
