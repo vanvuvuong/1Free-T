@@ -1,5 +1,2 @@
-.idea
-venv
-.venv
-freet.sublime-project
-freet.sublime-workspace
+**/.idea/*
+**/*/__pycache__
