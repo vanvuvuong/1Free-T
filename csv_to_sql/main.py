@@ -10,8 +10,10 @@ from libs.get_config import *
 
 parser = argparse.ArgumentParser(prog='mysql_con_cus')
 parser.add_argument('--file', help='Name of csv file')
+parser.add_argument('--deli', help='Delimiter')
 args = parser.parse_args()
 csv_file = args.file
+deli = args.deli
 table_name = csv_file.replace('files/', '').split('.csv')[0]
 
 if not csv_file or not table_name:
@@ -37,7 +39,7 @@ try:
         cursor.execute("SET character_set_connection=utf8mb4") 
         cursor.execute("SET collation_connection=utf8mb4_general_ci") 
         cursor.execute(f"DROP TABLE IF EXISTS {table_name} ;")
-        data_dump = create_query.create_tbl(table_name, csv_file, deli=',')
+        data_dump = create_query.create_tbl(table_name, csv_file, deli=deli)
         result = cursor.execute(data_dump['query'])
 
         print("Table created")

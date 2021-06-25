@@ -12,12 +12,12 @@ pip install -r requirements.txt
 
 ### 2.1. Copy the csv file to `files`
 
-### 2.2 Change the mySQL configuration & database information in `config/mysql.ini`
+### 2.2 Change the mySQL configuration & database information in `config/mysql.sample.ini` and change the name to `config/mysql.ini`
 
 ### 2.3 Run script
 
 ```
-python3 main.py --file csv_file_name.csv --name table_name
+python3 main.py --file files/samples.csv --deli ,
 ```
 
 ##### Note: Please note that some csv file have the different delimiter, you could change
