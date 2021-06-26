@@ -1,5 +1,6 @@
 import argparse
 import sys
+import re
 
 import mysql.connector
 from alive_progress import alive_bar
@@ -15,6 +16,7 @@ args = parser.parse_args()
 csv_file = args.file
 deli = args.deli
 table_name = csv_file.replace('files/', '').split('.csv')[0]
+table_name = re.sub('[^a-zA-Z0-9]', '', table_name)
 
 if not csv_file or not table_name:
     print("Missing the argument to run the code. Please do the -h or --help to see details.")
