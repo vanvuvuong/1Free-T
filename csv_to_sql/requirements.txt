@@ -1,5 +1,5 @@
-configparser
-argparse
-mysql
-mysql-connector
-alive_progress
+configparser==5.0.2
+mysql==0.0.3
+mysql-connector==2.2.9
+alive_progress==1.6.2
+mysqlclient==2.0.3

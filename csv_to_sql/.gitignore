@@ -1,3 +1,7 @@
+# idea, file
+.idea
+**/*/*.ini
+**/*/*.csv
 
 # Created by https://www.toptal.com/developers/gitignore/api/venv,virtualenv,pycharm,sublimetext,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,virtualenv,pycharm,sublimetext,python
